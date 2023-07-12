@@ -1,2 +1,2 @@
 # Examen
-repositorio prueba de diseño de infraestructura 
+repositorio Examen de diseño de infraestructura 
